@@ -24,7 +24,7 @@ app.listen(port, () => {
 let currentIndex = 0;
 const channelId = '';
 
-const statusMessages = ["🎵 Listening to Dakku - Anyway"];
+const statusMessages = ["🎮Playing Camping Roleplay"];
 
 async function login() {
   try {
